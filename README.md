@@ -1,2 +1,3 @@
 # bookbot
-Project using git and python to determine number of characters in a book
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
